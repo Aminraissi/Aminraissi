@@ -40,5 +40,14 @@
 </p>
 
 ---
-
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/amineraissi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:amineraissi@esprit.tn">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+---
 Thanks for stopping by! 🚀
