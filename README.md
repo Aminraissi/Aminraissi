@@ -1,18 +1,27 @@
 <h1 align="center">Hi, I'm Amin! 👋</h1>
 
 <p align="center">
-  <em>Software Engineer & Cloud/Cybersecurity Enthusiast sharing my journey and learnings in tech  
-/em>
+  <em>Software Engineer & Cloud/Cybersecurity Enthusiast sharing my journey and learnings in tech</em>
 </p>
 
 ---
 
-### 👨‍🎓 About Me
+### 👨‍💻 About Me
 🎓 Studied Software Engineering at ISSAT Kasserine, currently an engineering student at ESPRIT, Tunisia  
-💻 Working with Java, Python, Rust, MySQL/PostgreSQL, Symfony, and JavaFX  
-☁️ Specializing in Cloud Computing
-💭 Currently learning about threat analysis and secure cloud architecture  
+💻 Experienced with Java, Python, Rust, MySQL/PostgreSQL, Symfony, and JavaFX  
+☁️ Specializing in Cloud Computing and secure architecture  
+🔒 Passionate about Cybersecurity and threat analysis  
+💭 Always learning new technologies and improving my skills  
 
+---
+
+### 🛠️ Tools & Technologies
+
+**Cloud & Cybersecurity**  
+AWS Azure GCP CCNA Security SIEM Penetration Testing  
+
+**Web & Development**  
+HTML5 CSS3 JavaScript React Node.js Symfony Java JavaFX Flutter  
 
 ---
 
@@ -24,21 +33,9 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaFX-FF7800?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qdrant-FF4D4D?style=for-the-badge&logo=qdrant&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Polars-326CE5?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</p>
+### 💬 Ask me about
+Cloud Computing, Cybersecurity, Python, Java, Rust, Web Development  
+
+---
+
+Thanks for stopping by! 🚀
