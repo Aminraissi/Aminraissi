@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Amin! 👋</h1>
 
 <p align="center">
-  <em>Software Engineer & Cybersecurity Enthusiast sharing my journey and learnings in tech</em>
+  <em>Software Engineer & Cloud/Cybersecurity Enthusiast sharing my journey and learnings in tech  
+/em>
 </p>
 
 ---
 
 ### 👨‍🎓 About Me
-👨🏻‍💻 Software Engineer & Cloud/Cybersecurity Enthusiast sharing my journey and learnings in tech  
 🎓 Studied Software Engineering at ISSAT Kasserine, currently an engineering student at ESPRIT, Tunisia  
 💻 Working with Java, Python, Rust, MySQL/PostgreSQL, Symfony, and JavaFX  
-☁️ Specializing in Cloud Computing (Azure Certified: AZ-900, SC-900) and Offensive Security (Cisco Ethical Hacker)  
+☁️ Specializing in Cloud Computing
 💭 Currently learning about threat analysis and secure cloud architecture  
 
 
