@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Amin! 👋</h1>
 
 <p align="center">
-  <em>Software Engineer & Cloud/Cybersecurity Enthusiast sharing my journey and learnings in tech</em>
+  Welcome to my GitHub profile!<br/>
+  I'm passionate about coding and continuous learning.
 </p>
 
 ---
 
 ### 🚀 About Me
-Welcome to my GitHub profile!  
-I'm passionate about coding and continuous learning.  
-
 - 🔭 Currently working on exciting projects in **mobile development**  
 - 🌱 Always learning new technologies and improving my skills  
 - 👯 Looking to collaborate on open source and impactful projects  
