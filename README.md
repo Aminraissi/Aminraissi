@@ -40,9 +40,7 @@
 </p>
 
 ---
-
-### 💬 Ask me about
-Cloud Computing, Cybersecurity, Python, Java, Rust, Mobile Development  
+ 
 
 ---
 
