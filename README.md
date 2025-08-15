@@ -7,11 +7,12 @@
 ---
 
 ### 👨‍🎓 About Me
-- 🎓 Studied **Software Engineering** at ISSAT Kasserine, currently an engineering student at **ESPRIT**, Tunisia.  
-- 💻 Working with **Java**, **Python**, **Rust**, **MySQL/PostgreSQL**, and frameworks like **Symfony** and **JavaFX**.  
-- ☁️ Exploring the **Azure Cloud Ecosystem** (AZ-900, SC-900) and specializing in **Offensive Security** (Cisco Ethical Hacker).  
-- 🌱 Currently diving deeper into **Threat Analysis** and **Secure Cloud Architecture**.  
-- 📚 #learninginpublic through my projects and experiments in **Cloud, Development, and Cybersecurity**.
+👨🏻‍💻 Software Engineer & Cloud/Cybersecurity Enthusiast sharing my journey and learnings in tech  
+🎓 Studied Software Engineering at ISSAT Kasserine, currently an engineering student at ESPRIT, Tunisia  
+💻 Working with Java, Python, Rust, MySQL/PostgreSQL, Symfony, and JavaFX  
+☁️ Specializing in Cloud Computing (Azure Certified: AZ-900, SC-900) and Offensive Security (Cisco Ethical Hacker)  
+💭 Currently learning about threat analysis and secure cloud architecture  
+
 
 ---
 
