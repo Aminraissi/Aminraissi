@@ -40,8 +40,5 @@
 </p>
 
 ---
- 
-
----
 
 Thanks for stopping by! 🚀
