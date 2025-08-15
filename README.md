@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Amine! 👋</h1>
 
-<p>
+
 **Welcome to my GitHub profile!**  
+
 **I'm passionate about coding and continuous learning.**
-</p>
+
 
 ---
 
