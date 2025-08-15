@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Amine! 👋</h1>
 
 <p>
-  Welcome to my GitHub profile!<br/>
+ **Welcome to my GitHub profile!**<br/>
   
-  I'm passionate about coding and continuous learning.
+  **I'm passionate about coding and continuous learning.**
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on exciting projects in **mobile development**  
+- 🔭 Currently working on exciting projects in mobile development
 - 🌱 Always learning new technologies and improving my skills  
 - 👯 Looking to collaborate on open source and impactful projects  
 - 💬 Ask me about Java, Python, or anything tech!  
