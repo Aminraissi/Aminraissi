@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Amine! 👋</h1>
 
-<p align="center">
+<p>
   Welcome to my GitHub profile!<br/>
   I'm passionate about coding and continuous learning.
 </p>
