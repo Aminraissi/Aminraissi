@@ -6,12 +6,14 @@
 
 ---
 
-### 👨‍💻 About Me
-🎓 Studied Software Engineering at ISSAT Kasserine, currently an engineering student at ESPRIT, Tunisia  
-💻 Experienced with Java, Python, Rust, MySQL/PostgreSQL, Symfony, and JavaFX  
-☁️ Specializing in Cloud Computing and secure architecture  
-🔒 Passionate about Cybersecurity and threat analysis  
-💭 Always learning new technologies and improving my skills  
+### 🚀 About Me
+Welcome to my GitHub profile!  
+I'm passionate about coding and continuous learning.  
+
+- 🔭 Currently working on exciting projects in **mobile development**  
+- 🌱 Always learning new technologies and improving my skills  
+- 👯 Looking to collaborate on open source and impactful projects  
+- 💬 Ask me about Java, Python, or anything tech!  
 
 ---
 
@@ -43,7 +45,7 @@
 ---
 
 ### 💬 Ask me about
-Cloud Computing, Cybersecurity, Python, Java, Rust, Web Development  
+Cloud Computing, Cybersecurity, Python, Java, Rust, Mobile Development  
 
 ---
 
