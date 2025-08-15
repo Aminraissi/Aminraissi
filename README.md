@@ -32,4 +32,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaFX-FF7800?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qdrant-FF4D4D?style=for-the-badge&logo=qdrant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Polars-326ce5?style=for-the-badge&logo=python&logoColor=white"/>
+
 </p>
